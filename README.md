@@ -30,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**DaviSLM**&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**DaviSLM**&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviSoaresLM&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSoaresLM&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -39,4 +39,4 @@
 ### 📫 Contato
 
 - ✉️ Email: **davisoareslunam@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 💼 LinkedIn: [linkedin.com/in/DaviSoaresLM](https://linkedin.com/in/DaviSoaresLM)
