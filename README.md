@@ -39,4 +39,4 @@
 ### 📫 Contato
 
 - ✉️ Email: **davisoareslunam@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/DaviSoaresLM]([https://linkedin.com/in/DaviSoaresLM](https://www.linkedin.com/in/davi-soares-01095526b/))
+- 💼 LinkedIn: [linkedin.com/in/davi-soares-01095526b/](https://www.linkedin.com/in/davi-soares-01095526b/)
