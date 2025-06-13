@@ -11,7 +11,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🛠️ Atualmente aprendendo: **Java**, **Python**, **SQL**, **Spring Boot**, **Android Studio**
 - 🚀 Trabalhando em:
-  - 📱 Um **app Android de mangás**, com navegação entre lançamentos, populares e recentes  
+  - 📊 **Dashboard de Popularidade de Animes** usando Dash e Plotly
   - 🍽️ Uma **página web responsiva para restaurante delivery**, inspirada no estilo iFood, com foco em cardápio digital e pedidos rápidos
 - 📍 De: Fortaleza, CE
 
